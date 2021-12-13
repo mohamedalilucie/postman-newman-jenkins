@@ -10,6 +10,6 @@
   },
   "author": "Valentin Despa",
   "dependencies": {
-    "newman": "^3.5.2"
+    "newman": "^3.10.0"
   }
 }

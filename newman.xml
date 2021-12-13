@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Jsonplaceholder.com" tests="2" time="0.281">
+  <testsuite name="https://jsonplaceholder.typicode.com/posts?userId=1" id="96eccdd4-bd47-4a76-84b6-7a07b9e13d70" tests="2" failures="0" errors="0" time="0.091">
+    <testcase name="Status code is 200" time="0.091"/>
+    <testcase name="Body matches string" time="0.091"/>
+  </testsuite>
+  <testsuite name="https://jsonplaceholder.typicode.com/posts/1" id="d8e4a413-ae72-4d1a-b112-4606f0eae4e9" tests="2" failures="0" errors="0" time="0.190">
+    <testcase name="Status code is 200" time="0.190"/>
+    <testcase name="Response time is less than 800ms" time="0.190"/>
+  </testsuite>
+</testsuites>
